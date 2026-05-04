@@ -10,7 +10,6 @@ from sklearn import neighbors
 import matplotlib.patches as mpatches
 import graphviz
 from sklearn.tree import export_graphviz
-import matplotlib.patches as mpatches
 
 def load_crime_dataset():
     # Communities and Crime dataset for regression
